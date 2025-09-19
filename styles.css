@@ -197,7 +197,7 @@ section {
   /* Scale for ABOUT */
 @media (max-width: 480px) {
   .about h2 {
-    font-size: 28px;
+    font-size: 20px;
   }
 }
 @media (max-width: 768px) {
@@ -583,4 +583,5 @@ footer {
   .hero-logo {
     max-width: 300px; /* shrink further on small screens */
   }
+
 }
