@@ -140,6 +140,7 @@ section {
   align-items:flex-start;
 }
 .about h2 {
+  white-space: nowrap;
   color: #545454;
   font-size: 50px;
   font-weight: 700;
@@ -585,3 +586,4 @@ footer {
   }
 
 }
+
